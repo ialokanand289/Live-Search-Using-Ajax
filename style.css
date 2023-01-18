@@ -1,0 +1,10 @@
+    .error-msg{
+        background: #f2dedf;
+        color: #9c4150;
+        border: 1px solid #e7ced1;
+    }
+    .success{
+        background: #e0efda;
+        color: #407a4a;
+        border: 1px solid #c6dfb2;
+    }
